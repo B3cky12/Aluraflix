@@ -1,0 +1,77 @@
+body {
+  font-family: Raleway, sans-serif;
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1559570278-eb8d71d06403?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzMTg4ODE2OQ&ixlib=rb-1.2.1&q=85");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border: 5px solid #e53935;
+  border-style: inset;
+  border-radius: 5px;
+  margin-bottom: 6px;
+}
+
+.page-title {
+  color: #ffebee;
+  margin: 12px;
+}
+
+.page-subtitle {
+  color: #ffebee;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.filme {
+  display: inline-block;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+  margin: 10px;
+  padding: 5px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  color: #ffebee;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 12px;
+  background: #ffebee;
+  color: #e53935;
+  border: solid 2px #e53935;
+}
+
+input {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 12px;
+  background: #ffebee;
+  color: #e53935;
+  border: solid 2px #e53935;
+}
